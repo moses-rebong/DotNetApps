@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue-App", "Blue-App\Blue-App.csproj", "{CA80D5A5-2F43-4F1B-891E-15C66D4DAB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA80D5A5-2F43-4F1B-891E-15C66D4DAB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA80D5A5-2F43-4F1B-891E-15C66D4DAB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA80D5A5-2F43-4F1B-891E-15C66D4DAB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA80D5A5-2F43-4F1B-891E-15C66D4DAB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D05A791-1B26-4802-B121-AEF1874EEC38}
+	EndGlobalSection
+EndGlobal
